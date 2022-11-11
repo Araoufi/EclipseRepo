@@ -7,4 +7,7 @@ public class GitEclipseClass {
 		System.out.println("This is inside eclipseBranch");
 	}
 
+	public void testInTest() {
+		System.out.println("12345678910");
+	}
 }
